@@ -5,7 +5,6 @@ describe('MediaComponent', () => {
   let component: MediaComponent;
   let media: MediaComponent;
   let fixture: ComponentFixture<MediaComponent>;   
-  
 
 
 
