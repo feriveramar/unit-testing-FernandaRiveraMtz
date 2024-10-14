@@ -4,8 +4,9 @@ import { MediaComponent } from './media.component';
 describe('MediaComponent', () => {
   let component: MediaComponent;
   let media: MediaComponent;
-  let fixture: ComponentFixture<MediaComponent>;  
+  let fixture: ComponentFixture<MediaComponent>;   
   
+
 
 
   beforeEach(() => {
