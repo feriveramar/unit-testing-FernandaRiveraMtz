@@ -7,7 +7,6 @@ describe('MediaComponent', () => {
   let fixture: ComponentFixture<MediaComponent>;   
 
 
-
   beforeEach(() => {
     media = new MediaComponent();
   });
