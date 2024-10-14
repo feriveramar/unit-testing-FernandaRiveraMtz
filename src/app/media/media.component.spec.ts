@@ -6,6 +6,11 @@ describe('MediaComponent', () => {
   let media: MediaComponent;
   let fixture: ComponentFixture<MediaComponent>;
 
+
+  beforeEach(() => {
+    media = new MediaComponent();
+  });
+
   
 
   beforeEach(async () => {
